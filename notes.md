@@ -1,0 +1,4 @@
+- QR code created by Denso Wave
+- Read with reed-solomon error correction
+- standards: ISO/IEC 18004:2024 Information technology — Automatic identification and data capture techniques
+- 
